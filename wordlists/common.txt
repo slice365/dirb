@@ -34,6 +34,10 @@
 .DS_Store
 .gitignore
 .git/
+.viminfo
+.wget-hsts
+.Xauthority
+
 @
 _
 _adm
