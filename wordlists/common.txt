@@ -25,6 +25,15 @@
 .svn/entries
 .swf
 .web
+.ftpconfig
+.ftpsync_settings
+.sshconfig
+.sshsync_settings
+.env
+.remote-sync.json
+.DS_Store
+.gitignore
+.git/
 @
 _
 _adm
