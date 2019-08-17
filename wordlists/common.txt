@@ -272,6 +272,8 @@ action
 actions
 activate
 active
+graphql
+graphql
 activeCollab
 activex
 activities
